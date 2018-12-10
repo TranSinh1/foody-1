@@ -23,15 +23,13 @@
                         </li>
                         <li class="divider"></li>
                         <li><a href="login.html"><i class="fa fa-sign-out fa-fw"></i> Logout</a>
-                        </li>
+                        </li> 
                     </ul>
-                    
                     <!-- /.dropdown-user -->
-                </li>
+                </li> 
                 <!-- /.dropdown -->
             </ul>
             <!-- /.navbar-top-links -->
-
            @include('admin.layout.menu')
             <!-- /.navbar-static-side -->
         </nav>
